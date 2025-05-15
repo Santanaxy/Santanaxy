@@ -1,11 +1,15 @@
  <h1>👋 Victor_Santana</h1>
 
-
 Me chamo Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cursando Programação de Python Atualmente, eu gosto muito de mexer com Programa 
-    
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
       
+
+
 <h1>🌐 Socials: </h1>
 <br>
+
+<a>
+ 
  <div align="center">
     <a href="https://www.instagram.com/v_santanazx?igsh=MTQ2bnBqcW5rZTVmag=="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = "180" target="_blank"></a>
     <a href="https://discord.gg/PXd5WrTh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width = "150" target="_blank"></a> 
@@ -35,20 +39,17 @@ Me chamo Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cur
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="43px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
- 
-<img 
+ <img 
     align="left" 
     alt="Python" 
     title="Python"
-    width="43px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-<br/>
 <br/>
 ------------------------------------------------
 
