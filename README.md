@@ -35,15 +35,15 @@ Me chamo Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cur
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="43px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+ 
 <img 
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="43px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
