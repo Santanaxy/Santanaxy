@@ -32,8 +32,6 @@ Me chamo Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cur
   />
 </div>
 
-<h1>🤖 Linguagens e Tecnologias </h1>
-
 <img 
     align="left" 
     alt="HTML"
