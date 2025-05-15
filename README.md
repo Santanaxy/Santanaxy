@@ -31,7 +31,6 @@ Me chamo Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cur
     alt="Github Estatísticas"
   />
 </div>
-
 <img 
     align="left" 
     alt="HTML"
@@ -40,7 +39,6 @@ Me chamo Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cur
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Python" 
