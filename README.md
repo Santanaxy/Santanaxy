@@ -52,7 +52,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 
 
 ------------------------------------------------
-<img align="right" src="<iframe src="https://giphy.com/embed/M7yMQQS8ouTreMRmbY" width="480" height="274" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/M7yMQQS8ouTreMRmbY">via GIPHY</a></p>" width="120" alt="GIF do Giphy" />
+<img align="right" src="<iframe src="https://giphy.com/embed/M7yMQQS8ouTreMRmbY" width="480" height="274" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/M7yMQQS8ouTreMRmbY" width="120" alt="GIF do Giphy" />
 
 > _"“São os teimosos que mudam o mundo.
 > — 🌹SOPHIE🌹
