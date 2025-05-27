@@ -41,7 +41,8 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=Santanaxy&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
+    src="https://github.com/Santanaxy
+username=Santanaxy&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
   />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Santanaxy&theme=neon" 
