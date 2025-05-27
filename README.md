@@ -57,4 +57,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 > _"“São os teimosos que mudam o mundo.
 > — 🌹SOPHIE🌹
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
