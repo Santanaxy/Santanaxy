@@ -52,7 +52,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 
 
 ------------------------------------------------
-<img align="right" src="xaDVkdmF5bWdndjRjdHhudjV6enI3bnhqNmJhdzBpdzd4Z3BxaXJobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iKJky4zNd6E7TEs5Le/giphy.gif" width="120" alt="SOPHIE" />
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjEydjc4Ymd2Mmt1d3oyb2cxenQxcXlyN3d0YnF3aWN5c3B6MTZsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M7yMQQS8ouTreMRmbY/giphy.gif" width="150" alt="SOPHIE" />
 
 > _"“São os teimosos que mudam o mundo.
 > — 🌹SOPHIE🌹
