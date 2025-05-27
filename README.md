@@ -1,4 +1,4 @@
-<div align="center" style="width: 100%; font-size: 60px;">
+<div align="center" style="width: 100%; font-size: 600px;">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=30&center=true&lines=I+am+from+Brazil;I'm+a+python+programming+student;Be+welcome!" alt="Typing SVG"/>
 </div>
 
