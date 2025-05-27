@@ -42,24 +42,11 @@
     alt="GitHub Streak"
     src="https://github-readme-streak-stats.herokuapp.com?user=Santanaxy&theme=tokyonight&card_width=885"
   />
-</div>
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
- <div
-  
- <img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="margin-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-/>
-<br/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="15" />
+  <img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="15" />
 
 
 
