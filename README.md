@@ -38,12 +38,11 @@
   />
  <div align="center">
   <img
-    height=165
-    align="center"
+    height="165"
     alt="GitHub Stats"
-    src="https://github.com/Santanaxy
-username=Santanaxy&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
+    src="https://github-readme-stats.vercel.app/api/?username=Santanaxy&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
   />
+</div>
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Santanaxy&theme=neon" 
     width="50%" 
