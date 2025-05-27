@@ -1,3 +1,7 @@
+<div align="center" width="150%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+python+programming+student;Be+welcome!" alt="Typing SVG"/>
+</div>
+
  <h1>👋 Victor_Santana</h1>
 
 Me chamo Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cursando Programação de Python Atualmente, eu gosto muito de mexer com Programa 
@@ -27,9 +31,7 @@ Me chamo Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cur
     width="50%" 
     alt="Github Top Linguagens"
   />
- <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
-</div>
+ 
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Santanaxy&theme=neon" 
     width="50%" 
