@@ -52,11 +52,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 
 
 ------------------------------------------------
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santanaxy/Santanaxy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Santanaxy/Santanaxy/output/pacman-contribution-graph.svg">
-  <img alt="Gráfico de contribuições Pac-Man" src="https://raw.githubusercontent.com/Santanaxy/Santanaxy/output/pacman-contribution-graph.svg">
-</picture>
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZxdHJ0a2NodzdlaGNnNGszbnZlajd1ajhpcWgzYnY5Zjk2ZzBzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iKJky4zNd6E7TEs5Le/giphy.gif" width="120" alt="Mestre Yoda" />
 
+> _"“São os teimosos que mudam o mundo.
+> — 🌹SOPHIE🌹
 
 
