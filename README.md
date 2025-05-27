@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=1100&size=60&center=true&lines=I+am+from+Brazil;I'm+a+Python+programming+student;Be+welcome!" alt="Typing SVG"/>
+</h1>
+
 <div align="center" style="width: 1000; font-size: 600px;">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=30&center=true&lines=I+am+from+Brazil;I'm+a+python+programming+student;Be+welcome!" alt="Typing SVG"/>
 </div>
