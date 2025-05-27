@@ -1,8 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=40bdae&width=1500&size=41&left=true&lines=I+am+from+Brazil;I'm+a+Python+programming+student;Be+welcome!" alt="Typing SVG"/>
-</h1>
+<p align="center">
+  <h3 align="center">⌨️ Readme Typing SVG</h3>
+</p>
+
 
  <h1>👋 Victor_Santana</h1>
  
