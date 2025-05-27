@@ -1,8 +1,8 @@
 
 
-<h1 align="center">
+<h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=1100&size=60&center=true&lines=I+am+from+Brazil;I'm+a+Python+programming+student;Be+welcome!" alt="Typing SVG"/>
-</h1>
+</h2>
  <h1>👋 Victor_Santana</h1>
 
 Me chamo Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cursando Programação de Python Atualmente, eu gosto muito de mexer com Programa 
