@@ -35,15 +35,14 @@
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api/?username=Santanaxy&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
   />
-</div>
-   <br>
+<div align="center">
+  <br>
   <img
-    height=154
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=tokyonight&card_width=885"
+    height="154"
+    alt="GitHub Streak"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Santanaxy&theme=tokyonight&card_width=885"
   />
-  </div>
+</div>
     align="left" 
     alt="HTML"
     title="HTML" 
