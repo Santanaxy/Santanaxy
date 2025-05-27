@@ -1,8 +1,8 @@
 
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=1100&size=60&center=true&lines=I+am+from+Brazil;I'm+a+Python+programming+student;Be+welcome!" alt="Typing SVG"/>
-</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=1000&size=45&center=true&lines=I+am+from+Brazil;I'm+a+Python+programming+student;Be+welcome!" alt="Typing SVG"/>
+</h1>
  <h1>👋 Victor_Santana</h1>
  
 
