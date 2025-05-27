@@ -29,27 +29,21 @@
 
 <h1>📊 Estatísticas </h1>
 
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santanaxy&layout=compact&langs_count=20&theme=neon" 
-    width="50%" 
-    alt="Github Top Linguagens"
-  />
- <div align="center">
+<div align="center">
   <img
     height="165"
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api/?username=Santanaxy&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
   />
 </div>
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Santanaxy&theme=neon" 
-    width="50%" 
-    alt="Github Estatísticas"
+   <br>
+  <img
+    height=154
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=tokyonight&card_width=885"
   />
-</div>
-<img 
+  </div>
     align="left" 
     alt="HTML"
     title="HTML" 
