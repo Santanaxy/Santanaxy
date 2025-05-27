@@ -59,7 +59,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
           frameborder="0" 
           class="giphy-embed" 
           allowfullscreen>
-  
+</div>
+<p>
+  <a href="https://giphy.com/gifs/M7yMQQS8ouTreMRmbY">via GIPHY</a>
+</p>
 
 
 > _"“São os teimosos que mudam o mundo.
