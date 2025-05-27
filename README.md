@@ -54,7 +54,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 ------------------------------------------------
 <img align ="right"
    src="https://giphy.com/embed/M7yMQQS8ouTreMRmbY" 
-          width="480" 
+          width="120" 
           height="274" 
           frameborder="0" 
           class="giphy-embed" 
