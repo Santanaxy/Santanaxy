@@ -53,7 +53,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 
 ------------------------------------------------
 <img align ="right"
-   src="https://giphy.com/embed/M7yMQQS8ouTreMRmbY" 
+   src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVxYjJhd3doaWk0b3YzeW96b2RjMWRoY2xqdjBnMnczMnhzbXg1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M7yMQQS8ouTreMRmbY/giphy.gif" 
           width="120" 
           height="274" 
           frameborder="0" 
