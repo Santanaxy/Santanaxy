@@ -41,12 +41,11 @@
   <img
     height="154"
     alt="GitHub Streak"
-    src="https://github-readme-streak-stats.herokuapp.com?user=Santanaxy&theme=tokyonight&card_width=885"
-  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+    src="https://github-readme-streak-stats.herokuapp.com?user=Santanaxy&theme=tokyonight&card_width=885"/>
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="15" />
-  <img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="15" />
 
 
@@ -55,10 +54,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Santanaxy/Santanaxy/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Santanaxy/Santanaxy/output/pacman-contribution-graph.svg">
 </picture>
-<div>
-  
-</div>
-###
+
+### 
 
 ------------------------------------------------
 
