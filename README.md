@@ -43,6 +43,7 @@
     alt="GitHub Streak"
     src="https://github-readme-streak-stats.herokuapp.com?user=Santanaxy&theme=tokyonight&card_width=885"/>
   <br>
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -60,20 +61,8 @@
 ------------------------------------------------
 
 
-<img align ="center"
-   src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVxYjJhd3doaWk0b3YzeW96b2RjMWRoY2xqdjBnMnczMnhzbXg1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M7yMQQS8ouTreMRmbY/giphy.gif" 
-          width="120" 
-          height="274" 
-          frameborder="0" 
-          class="giphy-embed" 
-          allowfullscreen>
-</div>
-<p>
-  <a href="https://giphy.com/gifs/M7yMQQS8ouTreMRmbY">via GIPHY</a>
-</p>
 
+![hot-wheels-pocoto-pocoto](https://github.com/user-attachments/assets/f2223f49-d8ef-4fbc-a760-bd44b66218f1)
 
-> _"“São os teimosos que mudam o mundo.
-> — 🌹SOPHIE🌹
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
