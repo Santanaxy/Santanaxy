@@ -8,7 +8,7 @@
  <h1>👋 Victor_Santana</h1>
  
 
-<h3> Me chamo Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cursando Programação de Python Atualmente, eu gosto muito de mexer com Programa </h3>
+<h3> Meu nome é Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cursando Programação de Python Atualmente, eu gosto muito de mexer com Programa </h3>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
       
