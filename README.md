@@ -73,6 +73,8 @@
 
 ------------------------------------------------
 
-![hot-wheels-pocoto-pocoto](https://github.com/user-attachments/assets/f2223f49-d8ef-4fbc-a760-bd44b66218f1)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f2223f49-d8ef-4fbc-a760-bd44b66218f1" alt="hot-wheels-pocoto-pocoto">
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
