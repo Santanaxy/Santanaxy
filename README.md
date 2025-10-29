@@ -6,12 +6,12 @@
 </p>
 
 <h1>👋 Victor_Santana</h1>
-<img src="images/transparent_gitgif.gif" align="right" width="300px">
+ 
 <h3> Meu nome é Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cursando Programação de Python. Atualmente, eu gosto muito de mexer com Programação </h3>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 
-<h1>🌐 Socials: </h1>
+<h1>🌐 Socials: <img src="images/fogoAzul.gif" width="60px" /> </h1>
 <br>
 
 <div align="center">
