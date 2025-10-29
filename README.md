@@ -1,4 +1,4 @@
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,100:ffffff&gradient=45"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,50:000000,50:ffffff,100:ffffff&gradient=true&animation=gradient"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=fffaf0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Victor+Santana;I'm+a+programming+student;I'm+a+junior+programmer;Be+Welcome" />
