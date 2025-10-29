@@ -32,6 +32,11 @@
 
 <h1>📊 Estatísticas </h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=fffaf0&size=35&center=true&vCenter=true&width=1000&lines=
+my+GitHub+statistics" />
+</p>
+
 
 <p align="center">
   <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Santanaxy&bg_color=f5fffa&color=808080&line=565656&point=696969&area=true&area_color=565656&hide_border=true)](https://github.com/Santanaxy/)"/>
