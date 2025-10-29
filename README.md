@@ -31,9 +31,9 @@
 
 <h1>📊 Estatísticas </h1>
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santanaxy_USERNAME&show_icons=true&theme=radical&hide_title=true&hide_border=true&include_all_commits=true&count_private=true)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santanaxy_Santanaxy&show_icons=true&theme=radical&hide_title=true&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santanaxy_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Santanaxy=Santanaxy_Santanaxy&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Contributions](https://ghchart.rshah.org/Santanaxy)
 
