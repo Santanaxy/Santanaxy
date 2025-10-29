@@ -11,7 +11,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 
-<img src="images/fogoAzul.gif" width="60px" /> &nbsp; Welcome to my Readme &nbsp; <img src="images/fogoAzul.gif" width="60px" />
+<img src="images/fogoAzul.gif" width="60px" /> <h1>; Welcome to my Readme </h1>; <img src="images/fogoAzul.gif" width="60px" />
 <br>
 
 <div align="center">
