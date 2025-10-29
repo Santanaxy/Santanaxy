@@ -50,7 +50,7 @@
   
   <h2>🛠️ Tecnologias e Ferramentas</h2>
   
-[My Skills](https://skillicons.dev/icons?i=,html,css,js,py,flutter,vscode,visualstudio&perline=3) 
+![My Skills](https://skillicons.dev/icons?i=,html,css,js,py,flutter,vscode,visualstudio&perline=3) 
 
 
 <picture>
