@@ -31,22 +31,7 @@
 
 <h1>📊 Estatísticas </h1>
 
-<div align="center">
-  <img
-    height="165"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=Santanaxy&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
-  />
-</div>
-
-<div align="center">
-  <br>
-  <img
-    height="154"
-    alt="GitHub Streak"
-    src="https://api.githubtrends.io/user/svg/avgupta456/langs?time_range=three_months&include_private=true&compact=true
-  <br>
-  <br>
+ [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io) 
   
   <h2>🛠️ Tecnologias e Ferramentas</h2>
   
