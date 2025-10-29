@@ -1,8 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+from+Brazil;I'm+a+Python+programming+student;Be+welcome!!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
+<p align= "center">
+  <img src = "https://readme-typing-svg.herokuapp.com/?color=67cb57&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Santanaxy+;I´m++programming+student;I’m+junior+programmer.;Be+Welcome!+:%29)](https://git.io/typing-svg" />
+ </a>
+</p>  
 
 <h1>👋 Victor_Santana</h1>
 
@@ -30,11 +31,6 @@
 <br>
 
 <h1>📊 Estatísticas </h1>
-
-<p align= "center">
-  <img src = "https://readme-typing-svg.herokuapp.com/?color=67cb57&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Santanaxy+;I'm+a+Software+Engineering+student;I’m+a+technology+content+creator;Be+Welcome!+:%29)](https://git.io/typing-svg" />
- </a>
-</p>  
 
 
 <p align="center">
