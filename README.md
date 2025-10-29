@@ -31,9 +31,13 @@
 
 <h1>📊 Estatísticas </h1>
 
- ![GitHub Contributions](https://ghchart.rshah.org/Santanaxy)
-  
-  <h2>🛠️ Tecnologias e Ferramentas</h2>
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santanaxy_USERNAME&show_icons=true&theme=radical&hide_title=true&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santanaxy_USERNAME&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Contributions](https://ghchart.rshah.org/Santanaxy)
+
+<h2>🛠️ Tecnologias e Ferramentas</h2>
   
 <p align="center">
     <img src="https://skillicons.dev/icons?i=htmx,html,css,js,py,flutter,vscode,visualstudio,&perline=4 " />
