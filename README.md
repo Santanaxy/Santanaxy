@@ -34,7 +34,7 @@
 
 
 <p align="center">
-  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Santanaxy&bg_color=f5fffa&color=a9a9a9&line=565656&point=696969&area=true&area_color=67cb57&hide_border=true)](https://github.com/Santanaxy/)"/>
+  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Santanaxy&bg_color=f5fffa&color=a9a9a9&line=565656&point=696969&area=true&area_color=a9a9a9&hide_border=true)](https://github.com/Santanaxy/)"/>
   </a>
 </p> 
 
