@@ -5,7 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=fffaf0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Victor+Santana;I'm+a+programming+student;I'm+a+junior+programmer;Be+Welcome" />
 </p>
 
-<img src="" width="60px" /> <h1>; BEM VINDO AO MEU GITHUB </h1>; <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFrd2FpaWM1MWF0djFyaXZlNjgwN2I0b2o0NHhqaGR4Yjc0eHN1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="60px" />
+<img src="" width="60px" /> <h1>; BEM VINDO AO MEU GITHUB </h1> <img src="![output-onlinegiftools-com](https://github.com/user-attachments/assets/a9af046b-2419-4e10-be94-4051ee9ab77a)
+" width="60px" />
  
 <h3> Meu nome é Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cursando Programação de Python. Atualmente, eu gosto muito de mexer com Programação </h3>
 
