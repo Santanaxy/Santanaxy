@@ -50,7 +50,7 @@
   
   <h2>🛠️ Tecnologias e Ferramentas</h2>
   
- ![My Skills](https://skillicons.dev/icons?i=aws,html,css,js,py,flutter,vscode,visualstudio&perline=3) 
+ ![My Skills](https://skillicons.dev/iconsi=aws,html,css,js,py,flutter,vscode,visualstudio&perline=3) 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santanaxy/Santanaxy/output/pacman-contribution-graph-dark.svg">
