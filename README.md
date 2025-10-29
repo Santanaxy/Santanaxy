@@ -50,9 +50,8 @@
   
   <h2>🛠️ Tecnologias e Ferramentas</h2>
   
-![My Skills](https://skillicons.dev/icons?i=,html,css,js,py,flutter,vscode,github&perline=3) 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=,html,css,js,py,flutter,vscode,visualstudio&perline=4 " />
+    <img src="https://skillicons.dev/icons?i=,html,css,js,py,flutter,vscode,visualstudio,htmx&perline=4 " />
   </a>
 </p>
 
