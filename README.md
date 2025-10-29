@@ -50,8 +50,11 @@
   
   <h2>🛠️ Tecnologias e Ferramentas</h2>
   
-![My Skills](https://skillicons.dev/icons?i=,html,css,js,py,flutter,vscode,visualstudio&perline=3) 
-
+![My Skills](https://skillicons.dev/icons?i=,html,css,js,py,flutter,vscode,github&perline=3) 
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=,html,css,js,py,flutter,vscode,visualstudio&perline=4 " />
+  </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santanaxy/Santanaxy/output/pacman-contribution-graph-dark.svg">
