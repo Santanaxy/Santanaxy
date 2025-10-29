@@ -5,13 +5,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=fffaf0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Victor+Santana;I'm+a+programming+student;I'm+a+junior+programmer;Be+Welcome" />
 </p>
 
-<H1><img src="" width="60px" />  BEM VINDO AO MEU GITHUB </h1> <img   src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFrd2FpaWM1MWF0djFyaXZlNjgwN2I0b2o0NHhqaGR4Yjc0eHN1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="60px" /></H1>
+<h2>🛠️ Tecnologias e Ferramentas</h2><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFrd2FpaWM1MWF0djFyaXZlNjgwN2I0b2o0NHhqaGR4Yjc0eHN1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="60px" />
  
 <h3> Meu nome é Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cursando Programação de Python. Atualmente, eu gosto muito de mexer com Programação </h3>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 
-<img src="" width="60px" /> <h1> REDE SOCIAL </h1>; <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFrd2FpaWM1MWF0djFyaXZlNjgwN2I0b2o0NHhqaGR4Yjc0eHN1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="60px" />
+ <h2>🛠️ Tecnologias e Ferramentas</h2>
 <br>
 
 <div align="center">
