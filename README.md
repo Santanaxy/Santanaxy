@@ -44,7 +44,7 @@
   <img
     height="154"
     alt="GitHub Streak"
-    src="https://api.githubtrends.io/user/svg/{Santanaxy}/repos/>
+    src="https://api.githubtrends.io/user/svg/avgupta456/langs?time_range=three_months&include_private=true&compact=true
   <br>
   <br>
   
