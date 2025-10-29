@@ -44,7 +44,7 @@
   <img
     height="154"
     alt="GitHub Streak"
-    src="https://github-readme-streak-stats.herokuapp.com?user=Santanaxy&theme=tokyonight&card_width=885"/>
+    src="https://api.githubtrends.io/user/svg/{Santanaxy}/repos/>
   <br>
   <br>
   
