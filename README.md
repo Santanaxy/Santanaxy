@@ -31,11 +31,11 @@
 
 <h1>📊 Estatísticas </h1>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide_title=true&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Santanaxy&show_icons=true&theme=radical&hide_title=true&hide_border=true&include_all_commits=true&count_private=true"/>
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santanaxy&layout=compact&theme=radical&hide_border=true"/>
 </p>
  
 
