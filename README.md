@@ -31,10 +31,10 @@
 
 <h1>📊 Estatísticas </h1>
 <p align="center">
-    <im src = "https://github-readme-stats.vercel.app/apiSantanaxy=Santanaxy_Santanaxy&show_icons=true&theme=radical&hide_title=true&hide_border=true&include_all_commits=true&count_private=true"/>
+    <img src = "https://github-readme-stats.vercel.app/apiSantanaxy=Santanaxy_Santanaxy&show_icons=true&theme=radical&hide_title=true&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <p align="center">
-    <im src= "https://github-readme-stats.vercel.app/api/top-langs/?Santanaxy=Santanaxy_Santanaxy&layout=compact&theme=radical&hide_border=true"/>  
+    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?Santanaxy=Santanaxy_Santanaxy&layout=compact&theme=radical&hide_border=true"/>  
 
  
 
