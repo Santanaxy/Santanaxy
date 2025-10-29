@@ -31,7 +31,7 @@
 
 <h1>📊 Estatísticas </h1>
 
- [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io) 
+ ![GitHub Contributions](https://ghchart.rshah.org/Santanaxy)
   
   <h2>🛠️ Tecnologias e Ferramentas</h2>
   
