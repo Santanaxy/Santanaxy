@@ -30,14 +30,17 @@
 <br>
 
 <h1>📊 Estatísticas </h1>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Santanaxy&show_icons=true&theme=radical&hide_title=true&hide_border=true&include_all_commits=true&count_private=true"/>
-</p>
+
+<p align= "center">
+  <img src = "https://readme-typing-svg.herokuapp.com/?color=67cb57&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Santanaxy+;I'm+a+Software+Engineering+student;I’m+a+technology+content+creator;Be+Welcome!+:%29)](https://git.io/typing-svg" />
+ </a>
+</p>  
+
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santanaxy&layout=compact&theme=radical&hide_border=true"/>
-</p>
- 
+  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Santanaxy&bg_color=0d1117&color=67cb57&line=67cb57&point=67cb57&area=true&area_color=67cb57&hide_border=true)](https://github.com/Santanaxy/)"/>
+  </a>
+</p> 
 
 <h2>🛠️ Tecnologias e Ferramentas</h2>
   
