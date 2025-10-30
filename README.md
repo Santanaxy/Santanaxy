@@ -59,7 +59,7 @@ Minha primeira experiência com o codigo foi criar um Site desde o começo, lemb
   <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Santanaxy&bg_color=f5fffa&color=808080&line=565656&point=696969&area=true&area_color=565656&hide_border=true)](https://github.com/Santanaxy/)"/>
   </a>
 </p> 
-<h1> TECNOLOGIA É FERRAMENTAS <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ZwZ3p2MzYyeGo5c3p4czNkNDljZ2l6aWFyZmU5cTkzOG9zaXg0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HvekzBaREHxlEwvlOS/giphy.gif" width="60" style="vertical-align: middle;" /></h1>
+<h1> TECNOLOGIA E FERRAMENTAS <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3ZwZ3p2MzYyeGo5c3p4czNkNDljZ2l6aWFyZmU5cTkzOG9zaXg0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HvekzBaREHxlEwvlOS/giphy.gif" width="60" style="vertical-align: middle;" /></h1>
   
 <p align="center">
     <img src="https://skillicons.dev/icons?i=htmx,html,css,js,py,flutter,vscode,visualstudio,&perline=4 " />
