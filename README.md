@@ -66,6 +66,13 @@ Minha primeira experiência com o codigo foi criar um Site desde o começo, lemb
   </a>
 </p>
  
+ 
+ 
+ p align="center"><i> Thanks for visiting ! 🖖 </i></p>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Santanaxy.Santanaxy&left_color=light&right_color=corblue"  />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santanaxy/Santanaxy/output/pacman-contribution-graph-dark.svg">
