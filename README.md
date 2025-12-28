@@ -46,8 +46,6 @@ Minha primeira experiência com o codigo foi criar um Site desde o começo, lemb
  <div> 
 </div>
 
- 
-
 
   
 <h1> ESTATISTICA <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRkMGQ5MmRuZGJ2enBvbHU2NzNraWUwaWFtZ253dnI2d2dydmFkOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RVWSqOsgDAq0W3051o/giphy.gif" width="60" style="vertical-align: middle;" /></h1>
@@ -66,7 +64,13 @@ Minha primeira experiência com o codigo foi criar um Site desde o começo, lemb
   </a>
 </p>
  
- 
+ ## 🎵 music
+
+<p align="centro">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=hsmbscdf6cxp0w2t7v22m1c63&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hsmbscdf6cxp0w2t7v22m1c63&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0d0d0d&interchange=false&profanity=false&mode=dark&bar_color=3084c5&bar_color_cover=true" width="60%" >
+  </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santanaxy/Santanaxy/output/pacman-contribution-graph-dark.svg">
