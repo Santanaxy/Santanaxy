@@ -64,16 +64,11 @@ Minha primeira experiência com o codigo foi criar um Site desde o começo, lemb
   </a>
 </p>
  
- ## 🎵 music
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hsmbscdf6cxp0w2t7v22m1c63&theme=novatorem&show_offline=true">
+## 🎵 Tocando agora no Spotify
 
-
-<p align="centro">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=hsmbscdf6cxp0w2t7v22m1c63&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hsmbscdf6cxp0w2t7v22m1c63&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0d0d0d&interchange=false&profanity=false&mode=dark&bar_color=3084c5&bar_color_cover=true" width="60%" >
-  </a>
-</p>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hsmbscdf6cxp0w2t7v22m1c63&theme=novatorem&show_offline=true&background_color=1e3a8a&border_color=ffffff&color=ffffff" width="550">
+ 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santanaxy/Santanaxy/output/pacman-contribution-graph-dark.svg">
