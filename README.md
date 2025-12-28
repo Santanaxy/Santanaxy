@@ -67,12 +67,6 @@ Minha primeira experiência com o codigo foi criar um Site desde o começo, lemb
 </p>
  
  
- 
- p align="center"><i> Thanks for visiting ! 🖖 </i></p>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Santanaxy.Santanaxy&left_color=light&right_color=corblue"  />
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santanaxy/Santanaxy/output/pacman-contribution-graph-dark.svg">
@@ -85,6 +79,12 @@ Minha primeira experiência com o codigo foi criar um Site desde o começo, lemb
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f2223f49-d8ef-4fbc-a760-bd44b66218f1" alt="hot-wheels-pocoto-pocoto">
+</div>
+
+ 
+<p align="center"><i> Thanks for visiting  </i></p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Santanaxy.Santanaxy&color=17c6e9&style=for-the-badge", width="10%" />
 </div>
 
 
