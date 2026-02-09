@@ -13,7 +13,7 @@
             
   <p>Eu sou Victor Santana, tenho 18 anos,  programador Júnior que acabou de ingressar na área da tecnologia, eu amo tecnologia desde criança começei a mexer com tecnologia com 12 anos, eu  formatava e consertava o computador quando era garoto. Hoje em dia eu estou me formando em Python para virar desenvolvedor.
 
-Minha primeira experiência com o codigo foi criar um Site desde o começo, lembro que eu passei sufoco no começo porque eu não sabia nada sobre Front-End, comecei  a tentar encontrar várias maneiras de mudar de papel de fundo do meu site para ficar chamativo. Eu costumava passar horas tentando personalizar o site e nem percebia que o tempo passava rápido. Eu comecei a gostar de mexer no codigo e ver que eu tinha poder de personalizar qualquer coisa do meu site. É como lego. Você começa peça por peça, e ninguém entende  o que esta construindo e pronto... você tem um castelo de código</p>
+Minha primeira experiência com o codigo foi criar um Site desde o começo, lembro que eu passei sufoco no começo porque eu não sabia nada sobre Front-End, comecei  a tentar encontrar várias maneiras de mudar de papel de fundo do meu site para ficar chamativo. Eu costumava passar horas tentando personalizar o site e nem percebia que o tempo passava rápido. Eu comecei a gostar de mexer no codigo e ver que eu tinha poder de personalizar qualquer coisa do meu site. É como lego, Você começa peça por peça, e ninguém entende  o que esta construindo, depois de algumas horas estara pronto... você tem um castelo de código</p>
 
 
 <div align="right">
