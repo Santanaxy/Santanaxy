@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=fffaf0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Victor+Santana;I'm+a+programming+student;I'm+a+junior+programmer;Be+Welcome" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=fffaf0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Victor+Santana;I'm+a+programming+student;I'm+a+Junior+developer;Be+Welcome" />
 </p>
 
 
