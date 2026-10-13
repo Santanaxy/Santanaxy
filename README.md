@@ -67,8 +67,15 @@ Minha primeira experiência com o codigo foi criar um Site desde o começo, lemb
 
 ## 🎵 Tocando agora no Spotify
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hsmbscdf6cxp0w2t7v22m1c63&theme=novatorem&show_offline=true&background_color=1e3a8a&border_color=ffffff&color=ffffff" width="550">
- 
+
+<a href="https://github.com/kittinan/spotify-github-profile" target="_blank" rel="noopener noreferrer">
+    <img
+        src="https://spotify-github-profile.kittinanx.com/api/view?uid=hsmbscdf6cxp0w2t7v22m1c63&theme=novatorem&show_offline=true&background_color=1e3a8a&border_color=ffffff&color=ffffff"
+        width="550"
+        alt="Meu perfil musical do Spotify"
+    >
+</a>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santanaxy/Santanaxy/output/pacman-contribution-graph-dark.svg">
