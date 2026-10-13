@@ -66,15 +66,13 @@ Minha primeira experiência com o codigo foi criar um Site desde o começo, lemb
  
 
 ## 🎵 Tocando agora no Spotify
-
-
-<a href="https://github.com/kittinan/spotify-github-profile" target="_blank" rel="noopener noreferrer">
+[<a href="https://github.com/kittinan/spotify-github-profile" target="_blank" rel="noopener noreferrer">
     <img
         src="https://spotify-github-profile.kittinanx.com/api/view?uid=hsmbscdf6cxp0w2t7v22m1c63&theme=novatorem&show_offline=true&background_color=1e3a8a&border_color=ffffff&color=ffffff"
         width="550"
         alt="Meu perfil musical do Spotify"
     >
-</a>
+</a>](https://discord.com/users/390618364688465921)
 
 
 <picture>
